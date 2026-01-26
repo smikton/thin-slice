@@ -1,4 +1,0 @@
-[build]
-  base = "my-blog"
-  command = "npm install && npm run build"
-  publish = "_site"
