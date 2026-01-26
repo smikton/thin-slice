@@ -16,7 +16,7 @@ module.exports = function(eleventyConfig) {
       includes: "_includes",
       data: "_data"
     },
-    markdownTemplateEngine: "njk",
+    markdownTemplateEngine: false,  // THIS LINE FIXES IT - don't process markdown with Nunjucks
     htmlTemplateEngine: "njk"
   };
 };
