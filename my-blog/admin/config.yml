@@ -1,6 +1,12 @@
 backend:
   name: git-gateway
+  repo: smikton/thin-slice
   branch: main
+  auth_type: pkce
+  base_url: https://auth.decapbridge.com
+  auth_endpoint: /sites/e398bd95-fa0b-4b93-8886-126bc34b3e82/pkce
+  auth_token_endpoint: /sites/e398bd95-fa0b-4b93-8886-126bc34b3e82/token
+  gateway_url: https://gateway.decapbridge.com
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
