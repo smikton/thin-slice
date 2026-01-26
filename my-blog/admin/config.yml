@@ -1,4 +1,4 @@
-yamlbackend:
+backend:
   name: git-gateway
   repo: smikton/thin-slice
   branch: main
