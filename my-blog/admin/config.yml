@@ -8,13 +8,13 @@ backend:
   auth_token_endpoint: /sites/e398bd95-fa0b-4b93-8886-126bc34b3e82/token
   gateway_url: https://gateway.decapbridge.com
 
-media_folder: "../images/uploads"
+media_folder: "my-blog/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
   - name: "posts"
     label: "Blog Posts"
-    folder: "../posts"
+    folder: "my-blog/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
