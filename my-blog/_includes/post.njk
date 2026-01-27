@@ -2,9 +2,16 @@
 layout: layout.njk
 ---
 <article>
-    <h2>{{ title }}</h2>
-    <div class="date">{{ date | dateFormat }} · {{ content | readingTime }} min read</div>
+    <div class="post-header">
+        <h2>{{ title }}</h2>
+        <div class="date">{{ date | dateFormat }} · {{ content | readingTime }} min read</div>
+    </div>
+
     <div class="post-content">
         {{ content | safe }}
+    </div>
+
+    <div class="back-link">
+        <a href="/">← back to all posts</a>
     </div>
 </article>
