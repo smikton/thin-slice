@@ -25,7 +25,7 @@ permalink: /library/
 * The Hour of the Star
 * The Unbearable Lightness of Being
 
-## Music Videos
+## Videos
 
 * [Moth, Burial & Four Tet](https://www.youtube.com/watch?v=pKa0ACXPdvU&list=LL&index=112)
 * [Bittersweet, Kevin Morby](https://youtu.be/rwwyXYeBPXU?si=nVZllqLaYn18w82G)
