@@ -7,7 +7,7 @@ I have become too reliant on the chatbots. One wonders how the future emerges, f
 
 As of late, I often spend several hours a day in conversation with an AI chatbot, either to delegate a piece of work I have no motivation for, to reassure myself that an email I’m sending is not, in fact, nonsensical, or to serve as an on-command quasi-therapist I can vent to – most often taking on the essence of Carl Jung, Esther Perel, Joe Hudson, Alan Watts, or Clarice Lispector.
 
-I believe many of my interactions with AI are and will continue to be fruitful. It is fundamentally absurd that I have access to an on-demand thesaurus, translator, editor, assistant, travel planner, therapist, and encyclopedia all in one, all the time.
+I believe many of my interactions with AI are and will continue to be fruitful. It is fundamentally absurd that I have access to an on-demand thesaurus, translator, editor, assistant, programmer, travel planner, therapist, and encyclopedia all in one, all the time.
 
 When I forget this absurdity, I begin to use it carelessly, confronted increasingly with my own stupidity.
 
