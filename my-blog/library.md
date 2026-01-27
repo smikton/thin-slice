@@ -3,7 +3,7 @@ layout: page.njk
 title: Library
 permalink: /library/
 ---
-**Essays**
+Essays
 
 * [The Egg](https://eyeofmidas.com/scifi/Weir_Egg.pdf)
 * [How I Attained Persistent Self-Love, or, I Demand Deep Okayness For Everyone](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love)
@@ -22,15 +22,14 @@ permalink: /library/
 
 
 
-**Books**
+Books
 
 * The Hour of the Star
 * The Unbearable Lightness of Being
-* ... 
 
 
 
-**Music Videos**
+Music Videos
 
 * [Moth, Burial & Four Tet](https://www.youtube.com/watch?v=pKa0ACXPdvU&list=LL&index=112)
 * [Bittersweet, Kevin Morby](https://youtu.be/rwwyXYeBPXU?si=nVZllqLaYn18w82G)
