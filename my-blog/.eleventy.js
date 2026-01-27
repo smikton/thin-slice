@@ -32,7 +32,7 @@ module.exports = function(eleventyConfig) {
       includes: "_includes",
       data: "_data"
     },
-    markdownTemplateEngine: false,  // THIS LINE FIXES IT - don't process markdown with Nunjucks
+    markdownTemplateEngine: false,
     htmlTemplateEngine: "njk"
   };
 };
