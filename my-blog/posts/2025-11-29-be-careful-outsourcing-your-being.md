@@ -5,19 +5,19 @@ date: 2025-11-30
 ---
 I have become too reliant on the chatbots. One wonders how the future emerges, first from afar, and then suddenly.
 
-As of late, I probably spend at least several hours a day in conversation with an AI chatbot, either to delegate a piece of work I have no motivation for, to reassure myself that an email or message I’m sending is not, in fact, nonsensical, or to serve as an on-command quasi-therapist I can vent to – most often taking on the essence of Carl Jung, Esther Perel, Joe Hudson, Alan Watts, or Clarice Lispector.
+As of late, I  spend several hours a day in conversation with an AI chatbot, either to delegate a piece of work I have no motivation for, to reassure myself that an email I’m sending is not, in fact, nonsensical, or to serve as an on-command quasi-therapist I can vent to – most often taking on the essence of Carl Jung, Esther Perel, Joe Hudson, Alan Watts, or Clarice Lispector.
 
-I believe many of my interactions with AI are and will continue to be fruitful. It is fundamentally absurd that I have access to an on-demand translator, therapist, editor, thesaurus, assistant, travel planner, and encyclopedia all in one, all the time.
+I believe many of my interactions with AI are and will continue to be fruitful. It is fundamentally absurd that I have access to an on-demand thesaurus, translator, editor, assistant, travel planner, therapist, and encyclopedia all in one, all the time.
 
 When I forget this absurdity, I begin to use it carelessly, confronted increasingly with my own stupidity.
 
 It starts with giving up care for grammar and spelling. The average sentence inputted into the chatbar “begins to resemlbe soemhting liek this”
 
-You then begin using it as a reassurance mechanism – is this email okay? Is this tweet good? Am I going insane? Are you being nice on purpose?
+You then begin using it as a reassurance mechanism – is this email okay? Is this tweet good? Am I going insane? 
 
 Soon, it becomes a first responder. You reflexively input tasks, questions, and assignments to the bot before attempting them yourself. Even when a task is straightforward, you outsource it anyway, the reflex already too deeply ingrained.
 
-You start to realize that you cannot fully trust the chatbots – their outputs are entirely meticulous, clinical, and clean, yet slightly off. Everything appears to make sense at surface level but some fundamental essence of sensicality remains missing. You end up wasting hours attempting to correctly prompt the bot, stuck in cycles of frustrating iteration, only to end up doing the task yourself.
+You start to realize that you cannot fully trust the chatbots – their outputs entirely meticulous, clinical, and clean, yet slightly off. The responses appear to make sense at surface level but some fundamental essence of sensicality remains missing. You end up wasting hours attempting to correctly prompt the bot, stuck in cycles of frustrating iteration, only to end up doing the task yourself.
 
 There is, of course, the sycophancy too, which you try to remove from the initial prompting, but which manages to seep back in – intentionally or not, it remains unclear. In an attempt to avoid total brainwashing, you request constructive criticism, but ask for it to be delivered gently, your soul too sensitive for full truths.
 
