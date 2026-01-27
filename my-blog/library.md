@@ -3,7 +3,7 @@ layout: page.njk
 title: Library
 permalink: /library/
 ---
-### **Essays**
+## **Essays**
 
 * [The Egg](https://eyeofmidas.com/scifi/Weir_Egg.pdf)
 * [How I Attained Persistent Self-Love, or, I Demand Deep Okayness For Everyone](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love)
@@ -20,12 +20,12 @@ permalink: /library/
 * [Agnes Callard’s Marriage of the Minds](https://www.newyorker.com/magazine/2023/03/13/agnes-callard-profile-marriage-philosophy)
 * [passive obsession](https://www.avabear.xyz/p/passive-obsession)[](https://www.youtube.com/watch?v=o5tpcaKwoNA&list=LL&index=24)[](https://www.youtube.com/watch?v=PN0RPWII7gY)
 
-### **Books**
+## **Books**
 
 * The Hour of the Star
 * The Unbearable Lightness of Being
 
-### **Music Videos**
+## **Music Videos**
 
 * [Moth, Burial & Four Tet](https://www.youtube.com/watch?v=pKa0ACXPdvU&list=LL&index=112)
 * [Bittersweet, Kevin Morby](https://youtu.be/rwwyXYeBPXU?si=nVZllqLaYn18w82G)
