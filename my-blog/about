@@ -1,0 +1,12 @@
+---
+layout: layout.njk
+title: About
+---
+
+<h2 class="page-title">About</h2>
+
+<div class="page-content">
+    <p>Welcome to my blog! I'm Sofia.</p>
+    
+    <p>Write a bit about yourself here. What do you do? What are you interested in? Why did you start this blog?</p>
+</div>
