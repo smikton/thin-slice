@@ -22,5 +22,5 @@ Here is the story:
 > Soon, Michael’s head began to flood. Empowered by the prospect of permanence, all of his thoughts began competing in a race to be brought to life by ink. Although Michael prided himself in his good memory, even this was too much. He simply could not keep track of his train of thought, nor could he keep his train of thought on track.
 >
 > In the end, this all became much too stressful for Michael. He convinced himself that $18 dollars wasn’t very significant, and turned on an episode of Friends. Michael was, after all, a weak, stupid man, devoid of any will power. 
->
-> Tangentially, I find it fascinating that many of my writings from when I was young were from the perspective of a male character. I am, in fact, a woman.
+
+Tangentially, I find it fascinating that many of my writings from when I was young were from the perspective of a male character. I am, in fact, a woman.
