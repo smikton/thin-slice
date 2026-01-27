@@ -21,4 +21,33 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post.njk"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "about"
+        label: "About"
+        file: "my-blog/about.njk"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layout.njk"}
+          - {label: "Title", name: "title", widget: "hidden", default: "About"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "library"
+        label: "Library"
+        file: "my-blog/library.njk"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layout.njk"}
+          - {label: "Title", name: "title", widget: "hidden", default: "Library"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/library/"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "projects"
+        label: "Projects"
+        file: "my-blog/projects.njk"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "layout.njk"}
+          - {label: "Title", name: "title", widget: "hidden", default: "Projects"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/projects/"}
+          - {label: "Body", name: "body", widget: "markdown"}
