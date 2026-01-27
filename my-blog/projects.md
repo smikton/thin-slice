@@ -3,6 +3,4 @@ layout: page.njk
 title: Projects
 permalink: /projects/
 ---
-
-Things I'm working on or have built.
-
+Having a page on your blog called "projects" forces you to ask yourself the question: what have I done with my life? Not much, it appears. The project of life demands enough of my attention.
