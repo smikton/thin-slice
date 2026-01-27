@@ -3,7 +3,7 @@ layout: post.njk
 title: Michael's Notebook
 date: 2025-12-01
 ---
-I wrote the following short story in high school. Or university - I can't quite remember. But it marked the beginning of me realizing I had slowly lost the ability, or will, perhaps, to create. It rang true for many years.
+I wrote the following short story in high school. Or university. I can't quite remember. But it marked the beginning of me realizing I had slowly lost the ability, or will, perhaps, to create. It rang true for many years.
 
 > One day, Michael went to the art store to buy a moleskine notebook. Despite the guilt of spending $18 dollars on the remnants of a dead tree, Michael was giddy with excitement. *​This is it. ​*He thought to himself. ​*This is the one. This red bookishly booking book will be the notebook I finally finish.* *I’ll fill it to the brim like an optimist would a glass of milk.* 
 >
