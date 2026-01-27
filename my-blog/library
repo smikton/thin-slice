@@ -1,0 +1,10 @@
+---
+layout: layout.njk
+title: Library
+---
+
+<h2 class="page-title">Library</h2>
+
+<div class="page-content">
+    <p>Books, articles, and other things I've found interesting.</p>
+</div>
