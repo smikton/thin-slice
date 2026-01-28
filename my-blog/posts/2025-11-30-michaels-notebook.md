@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Michael's Notebook
-date: 2025-12-01
+date: 2025-11-13
 ---
 I wrote the following short story in high school. Or university. I can't quite remember. But it marked the beginning of me realizing I had slowly lost the ability, or will, perhaps, to create. It rang true for many years.
 
