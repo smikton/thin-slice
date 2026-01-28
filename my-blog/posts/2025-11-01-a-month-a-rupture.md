@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: A month; a rupture
-date: 2025-11-02
+date: 2025-11-01
 ---
 I wrote the following at the end of October, 2025, a month I now dub the worst month of my life. Perhaps “worst” is too strong a word, maybe “inevitable” is more fitting.
 
