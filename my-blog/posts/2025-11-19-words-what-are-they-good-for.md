@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Words, what are they good for?
-date: 2025-11-20
+date: 2025-12-19
 ---
 I would like to live in a wordless world. I would like to get rid of language, of concepts, of thought. What good has a “concept” ever done? I can’t think of a single thing.
 
