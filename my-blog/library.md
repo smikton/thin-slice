@@ -23,6 +23,9 @@ permalink: /library/
 
 * The Hour of the Star
 * The Unbearable Lightness of Being
+* What I Talk About When I Talk About Running
+* The Ones Who Walk Away from Omelas
+* Calvin and Hobbes (Calvin and Hobbes, #1) [](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 
 ## Videos
 
