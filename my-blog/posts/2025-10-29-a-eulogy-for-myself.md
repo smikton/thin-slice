@@ -2,7 +2,7 @@
 layout: post.njk
 title: A eulogy (for myself)
 date: 2025-10-30
-draft: true
+draft: false
 ---
 For my 27th birthday, [](https://thegreatunblockening.com/category/uncategorized/)I thought it’d be nice to write myself a eulogy to grieve all the past versions of myself no longer serving their purpose. 
 
