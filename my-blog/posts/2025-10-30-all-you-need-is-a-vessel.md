@@ -3,7 +3,7 @@ layout: post.njk
 title: All you need is a vessel
 date: 2025-11-15
 ---
-[](https://thegreatunblockening.com/category/uncategorized/)I have spent years wondering why I do not create more. In a short story I wrote when I was younger, my anguish cemented itself:
+[](https://thegreatunblockening.com/category/uncategorized/)I have spent years wondering why I do not create more. Somewhere deep down, I believe myself to be a creator, someone who makes things. As a kid, I invented board games, and painted, and made up imaginary lands - perhaps like all kids do, but it is really the only satisfaction i get in life - from creating. In a short story I wrote when I was younger, my anguish cemented itself:
 
 > Maybe the reason I haven’t been progressing as an individual is because I spend all my time absorbing the knowledge of others, never taking the time to produce my own. I’ve been drawn into a world of screens and stimulation, failing to appreciate the remedial powers of pen and paper.
 
