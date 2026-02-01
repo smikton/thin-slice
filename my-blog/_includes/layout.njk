@@ -288,7 +288,7 @@
     <script>
         // ========== PASSWORD SETTINGS ==========
         const passwordProtected = true;  // Change to false to disable password
-        const password = "sbf2022";  // Change this to your password
+        const password = "yourpassword";  // Change this to your password
         // =======================================
 
         if (passwordProtected) {
@@ -324,7 +324,7 @@
         <header>
             <h1><a href="/">Sofia's Blog</a></h1>
             <nav>
-                <a href="/about/">about</a><span>/</span><a href="/library/">library</a><span>/</span><a href="/projects/">projects</a>
+                <a href="/about/">about</a><span>/</span><a href="/library/">library</a><span>/</span><a href="/projects/">projects</a><span>/</span><a href="/gap-year/">gap year</a>
             </nav>
         </header>
 
@@ -332,5 +332,15 @@
             {{ content | safe }}
         </main>
     </div>
+
+    <script>
+        // Make external links open in new tabs
+        document.querySelectorAll('.post-content a, .page-content a').forEach(link => {
+            if (!link.href.includes(window.location.hostname)) {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
+    </script>
 </body>
 </html>
