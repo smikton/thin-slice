@@ -9,18 +9,18 @@ At the end of January, I began to panic about using my time off productively and
 
 * I go places and do things.   
 * I meet new people, both personally and professionally. Professionally, I would like to get in the habit of simply reaching out to people I find interesting and seeing if they'd be open to a call, an interview, if they need help. Personally, I have no real bounds on who I am excited to meet. I would like to get a bit out of my bubble, if possible. 
-* I host events I'd be excited to attend myself. This is a bit tricky without a home station at the moment, but I think this can be done. 
+* I host events I'd be excited to attend myself. This is a bit tricky without a home base at the moment, but I think this can be done. 
 * I write. On this blog, on twitter, in my journal, on Substack, in my head, with other people, alone. I'd like to continue doing my morning pages every morning. 
 * I keep up a regular meditation practice. 
-* I take online and/or in-person courses on topics I am genuinely interested in. Currently this includes AI (societal impacts, ethics), writing, journalism/storytelling, data/polling, sociology, human behavior/psychology, introspection, meditation, and witchcraft.  
+* I take online and/or in-person courses on topics I am genuinely interested in. Currently this includes AI (societal impacts, ethics), writing/journalism/storytelling, data/polling, sociology, human behavior/psychology, introspection, meditation, and witchcraft.  
 * I get some things done I've been meaning to do for a long time (upskilling in french, freezing my eggs, getting a drivers liscense). 
-* I do some sort of volunteering work, join a fellowship - something a bit legible, something that gives me a container to do something. I'd like to be helpful to the world. 
-* It would be nice to be part of some cohort that meets regularly, whether through an online course, a book club, or something similar.
+* I do some sort of volunteering work, join a fellowship - something a bit legible, something that gives me a container to do independent research or be helpful to the world. 
+* I join some cohort that meets regularly, whether through an online course, a book club, a queer awakening support circle, etc. Something random. 
 * I iterate on a rough direction of research I'd like to focus on during my master's, and compile a running list of project ideas. As a byproduct, I hope to also get better at the skill of "noticing what sparks my interest". 
 * I apply to and get into at least one promising masters program, giving me a plan for September onwards. 
 * I feel alive and okay. 
 
-My only note of advice to future me: Please Sofia, do not spend 8 months in your bedroom. Blow all your savings if you need to, really. It will be okay. 
+My only note of caution to future me: Please Sofia, do not spend 8 months in your bedroom. Blow all your savings if you need to, really. It will be okay. 
 
 ## January 2026
 
@@ -33,9 +33,9 @@ My only note of advice to future me: Please Sofia, do not spend 8 months in your
 * * Cheated too much, decided to actually think 
 * Finished applying to all 4 of my masters programs, heard back from 1 (UCL, accepted)
 * * All were a mix of sociology/behavioral science/data science/social research  
-* Cancelled a trip to Munich/Berlin because of Chomage appointments 
-* Read a decent amount, read 7 books - including my new favourite book of all time, “the hour of the star”
-* Started new routines, did morning pages every day, 30 minutes of meditation 
+* Cancelled a trip to Munich/Berlin because of Chomage appointments. In retrospect this was a bit silly, I am afraid of breaking the law, but a short trip to Germany probably was fine. 
+* Read a decent amount, read 7 books - including my new favourite book of all time, “the hour of the star”.
+* Started new routines, did morning pages every day, 30 minutes of meditation. 
 * sTarted running again for the first time in maybe 5 years? No longer coughing blood
 * The visa phrase “what you do is what you do” was maybe the motto of the month. Id be laying on the carpet, thinking - should i go for a run. And then i’d say, what you do is what you do. If you go on a run you are someone who runs. If you stay on the carpet you are someone who stays on the carpet. And this was incredibly motivating. 
 * Dealt drugs, rekindled a friendhsip (?) with V, who is super lovely > made me want to meet new friends 
