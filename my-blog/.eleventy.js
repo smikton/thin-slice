@@ -13,18 +13,24 @@ module.exports = function(eleventyConfig) {
   
   // Reading time filter
   eleventyConfig.addFilter("readingTime", function(content) {
-    const text = content.replace(/<[^>]*>/g, ''); // Strip HTML tags
+    const text = content.replace(/<[^>]*>/g, '');
     const words = text.trim().split(/\s+/).length;
-    const minutes = Math.ceil(words / 200); // ~200 words per minute
+    const minutes = Math.ceil(words / 200);
     return minutes;
   });
   
+  // Blog posts collection
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("posts/*.md")
       .filter(post => !post.data.draft)
-      .sort((a, b) => {
-        return b.date - a.date;
-      });
+      .sort((a, b) => b.date - a.date);
+  });
+  
+  // Gap year collection - sorted chronologically (oldest first)
+  eleventyConfig.addCollection("gapyear", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("gap-year-posts/*.md")
+      .filter(post => !post.data.draft)
+      .sort((a, b) => a.date - b.date);
   });
   
   return {
