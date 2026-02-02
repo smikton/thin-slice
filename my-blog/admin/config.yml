@@ -63,3 +63,11 @@ collections:
           - {label: "Title", name: "title", widget: "hidden", default: "Projects"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/projects/"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - name: "gap-year-intro"
+        label: "Gap Year Intro"
+        file: "my-blog/gap-year.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "gap-year-listing.njk"}
+          - {label: "Title", name: "title", widget: "hidden", default: "Gap Year"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/gap-year/"}
+          - {label: "Intro Text", name: "body", widget: "markdown"}
