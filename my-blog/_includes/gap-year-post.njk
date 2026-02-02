@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+---
+<article>
+    <div class="post-header">
+        <h2>{{ title }}</h2>
+        <div class="date">{{ date | dateFormat }} · {{ content | readingTime }} min read</div>
+    </div>
+
+    <div class="post-content">
+        {{ content | safe }}
+    </div>
+
+    <div class="back-link">
+        <a href="/gap-year/">← back to gap year</a>
+    </div>
+</article>
