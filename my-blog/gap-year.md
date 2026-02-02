@@ -5,6 +5,8 @@ permalink: /gap-year/
 ---
 I'm taking an eight-month gap year this year, with plans to return to society in the fall for grad school. Why are you taking time off during the singularity, you ask? Because I have been slowly withering away and felt it important to try to feel alive again. 
 
+![](/images/uploads/screenshot-2026-02-02-at-17.25.50.png)
+
 At the end of January, I began to panic about using my time off productively and rushed to make a lengthy Google Doc with a to-do list of possible projects that would look legibly impressive on my CV. This ended up giving me the ick - it was far too top-down and inorganic. These ideas were born through coercion and force, not through love or curiosity. And so, this reminded me that for my gap year, I would like things to emerge as spontaneously as possible, and will trust that interesting things will happen by following my curiosity. For some broad-strokes-inspiration, I will be happy if some of the following occur: 
 
 * I go places and do things.   
