@@ -3,18 +3,24 @@ layout: page.njk
 title: Gap Year
 permalink: /gap-year/
 ---
-I am taking an eight-month gap year this year, assuming I get into grad school and start in September. I quit my job at the end of last year because I was feeling deeply unmotivated, had for several yeras, felt sad somewhere deep down about the type of work I was doing, and was in a mental state that encouraged me to make rash decisions.
+I'm taking an eight-month gap year this year, with plans to return to society in the fall for grad school. Why are you taking time off during the singularity, you ask? Because I have been slowly withering away and felt it important to try to feel alive again. 
 
-It was only really at the end of January that I sat down and thought about what success would look like for this time off, ... I am writing this somewhat as a reminder to myself, I think. 
+At the end of January, I began to panic about using my time off productively and rushed to make a lengthy Google Doc with a to-do list of possible projects that would look legibly impressive on my CV. This ended up giving me the ick - it was far too top-down and inorganic. These ideas were born through coercion and force, not through love or curiosity. And so, this reminded me that for my gap year, I would like things to emerge as spontaneously as possible, and will trust that interesting things will happen by following my curiosity. For some broad-strokes-inspiration, I will be happy if some of the following occur: 
 
-* \> I meet new people, both peresonally and proifesaionaly. Professionaly: I actually reach out to interesting people I'd like to talk to (Professors, researchers, community builders, writers, etc etc). Would be cool to aim for ~10 reach outs? I would like to expand my bubble too, outside the EA-verse, the AI-verse, different ages, different worldviews. E.g. if im interested in expanding my polling project, i coudl reach out to a surveyist and ask them about their work. If im interested in AI ethics, I could reach out to a ressearcher. It would be nice to be part of some cohort that meets regularly, whether this is through an online course, a book club, or something similar. 
-* \> I write stuff and make stuff and host stuff. I share some of it publically, and hopefully some could exist on my CV. I hope to keep up this blog for my personal writings, and share certain things on Substack, or even contribute to research that I could put on my CV. 
-* \> I take courses about things I find interesting. Currently, interested in AI (societal impacts, ethics, human-ai relations), writing, journalism/storytelling, data/polling, sociology, human behavior/psychology, introspection, meditation, decision-making. 
-* \> I get some things done I've been meaning to do for a long time (upskilling in french, freezing my eggs, maybe ... getting my drivers liscense). 
-* \> I do some sort of volunteering, fellowship, apprenticeship - something a bit legible, something that gives me a container to do stuff. I'd like to be helpful to the world. 
-* \> I figure out the rough direction of research I'd like to do during my masters, and continuosly narrow down things I am interested in. It would in fact be interesting to keep a running list of projects i'd be interested in doing/research questions. 
-* \> I apply and get into at least one promising masters program, giving me a plan and place to be for August/September onwards.  
-* \> I feel alive and okay. 
+* I go places and do things.   
+* I meet new people, both personally and professionally. Professionally, I would like to get in the habit of simply reaching out to people I find interesting and seeing if they'd be open to a call, an interview, if they need help. Personally, I have no real bounds on who I am excited to meet. I would like to get a bit out of my bubble, if possible. 
+* I host events I'd be excited to attend myself. This is a bit tricky without a home station at the moment, but I think this can be done. 
+* I write. On this blog, on twitter, in my journal, on Substack, in my head, with other people, alone. I'd like to continue doing my morning pages every morning. 
+* I keep up a regular meditation practice. 
+* I take online and/or in-person courses on topics I am genuinely interested in. Currently this includes AI (societal impacts, ethics), writing, journalism/storytelling, data/polling, sociology, human behavior/psychology, introspection, meditation, and witchcraft.  
+* I get some things done I've been meaning to do for a long time (upskilling in french, freezing my eggs, getting a drivers liscense). 
+* I do some sort of volunteering work, join a fellowship - something a bit legible, something that gives me a container to do something. I'd like to be helpful to the world. 
+* It would be nice to be part of some cohort that meets regularly, whether through an online course, a book club, or something similar.
+* I iterate on a rough direction of research I'd like to focus on during my master's, and compile a running list of project ideas. As a byproduct, I hope to also get better at the skill of "noticing what sparks my interest". 
+* I apply to and get into at least one promising masters program, giving me a plan for September onwards. 
+* I feel alive and okay. 
+
+My only note of advice to future me: Please Sofia, do not spend 8 months in your bedroom. Blow all your savings if you need to, really. It will be okay. 
 
 ## January 2026
 
