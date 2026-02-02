@@ -24,6 +24,18 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "gapyear"
+    label: "Gap Year"
+    folder: "my-blog/gap-year-posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "gap-year-post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "pages"
     label: "Pages"
     files:
@@ -50,12 +62,4 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page.njk"}
           - {label: "Title", name: "title", widget: "hidden", default: "Projects"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/projects/"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - name: "gap-year"
-        label: "Gap Year"
-        file: "my-blog/gap-year.md"
-        fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "page.njk"}
-          - {label: "Title", name: "title", widget: "hidden", default: "Gap Year"}
-          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/gap-year/"}
           - {label: "Body", name: "body", widget: "markdown"}
