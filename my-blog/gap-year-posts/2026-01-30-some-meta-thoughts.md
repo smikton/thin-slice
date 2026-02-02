@@ -1,6 +1,6 @@
 ---
 layout: gap-year-post.njk
-title: Some meta thoughts
+title: What is this all for?
 date: 2026-01-31
 draft: false
 ---
