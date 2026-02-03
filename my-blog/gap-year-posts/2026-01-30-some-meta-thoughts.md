@@ -22,4 +22,4 @@ As January came to an end, I began to panic about using my time off productively
 * I apply to and get into at least one promising masters program, giving me a plan for September onwards.
 * I feel alive and okay.
 
-My only note of caution to future me: Please Sofia, do not spend 8 months in your bedroom. Blow all your savings if you need to, really. It will be okay.
+My only note of caution to future me: Please Sofia, do not spend eight months in your bedroom. Blow all your savings if you need to, really. It will be okay. Also, believe in yourself! I think you may surprise yourself.
