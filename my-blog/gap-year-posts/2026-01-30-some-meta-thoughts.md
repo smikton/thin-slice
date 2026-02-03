@@ -11,7 +11,7 @@ As January came to an end, I began to panic about using my time off productively
 * I host events I'd be excited to attend myself. This is a bit tricky without a home base at the moment, but I think this can be done.
 * I write. On this blog, on twitter, in my journal, on Substack, in my head, with other people, alone. I'd like to continue doing my morning pages each day. 
 * I keep up a regular meditation practice.
-* I take online and/or in-person courses on topics I am genuinely interested in. Currently this includes AI (societal impacts, ethics), writing/journalism/storytelling, data/polling, sociology, human behavior/psychology, introspection, meditation, and witchcraft.
+* I take courses on topics I am genuinely interested in. Currently this includes AI (societal impacts, ethics), writing/journalism, data/polling, sociology, human behavior/psychology, introspection, meditation, and witchcraft.
 * I get some things done I've been meaning to do for a long time (upskilling in french, freezing my eggs, getting a drivers liscense).
 * I do some sort of volunteering work, join a fellowship - something a bit legible, something that gives me a container to do independent research or be helpful to the world.
 * I join some cohort that meets regularly, whether through an online course, a book club, a queer awakening support circle, etc. Something random.
