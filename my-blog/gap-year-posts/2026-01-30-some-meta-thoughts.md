@@ -4,6 +4,8 @@ title: What is this all for?
 date: 2026-01-31
 draft: false
 ---
+I'm taking an eight-month gap year this year, with plans to return to society in the fall for grad school. Why are you taking time off during the singularity, you ask? Because I have been slowly withering away and felt it important to try to feel alive again.
+
 As January came to an end, I began to panic about using my time off productively and rushed to make a lengthy Google Doc with a to-do list of possible projects that would look legibly impressive on my CV. This ended up giving me the ick—it was far too top-down and inorganic, the ideas born through coercion and force rather than through love and curiosity. And so, this reminded me that for my gap year, I would like things to emerge as spontaneously as possible, and I will trust that interesting things will happen by following my curiosity. For some broad-strokes inspiration, I will be happy if some of the following occur:
 
 * I go places and do things.
