@@ -14,7 +14,7 @@ As January came to an end, I began to panic about using my time off productively
 * I take courses on topics I am genuinely interested in. Currently this includes AI (societal impacts, ethics), writing/journalism, data/polling, sociology, human behavior/psychology, introspection, meditation, and witchcraft.
 * I get some things done I've been meaning to do for a long time (upskilling in french, freezing my eggs, getting a drivers liscense).
 * I do some sort of volunteering work, join a fellowship - something a bit legible, something that gives me a container to do independent research or be helpful to the world.
-* I join some cohort that meets regularly, whether through an online course, a book club, a queer awakening support circle, etc. Something random.
+* I join some cohort that meets regularly, whether through an online course, a book club, a queer awakening support circle, etc. 
 * I iterate on a rough direction of research I'd like to focus on during my master's, and compile a running list of project ideas. As a byproduct, I hope to also get better at the skill of "noticing what sparks my interest".
 * I apply to and get into at least one promising masters program, giving me a plan for September onwards.
 * I feel alive and okay.
