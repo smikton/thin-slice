@@ -16,6 +16,7 @@ As January came to an end, I began to panic about using my time off productively
 * I do some sort of volunteering work, join a fellowship - something a bit legible, something that gives me a container to do independent research or be helpful to the world.
 * I join some cohort that meets regularly, whether through an online course, a book club, a queer awakening support circle, etc. 
 * I iterate on a rough direction of research I'd like to focus on during my master's, and compile a running list of project ideas. As a byproduct, I hope to also get better at the skill of "noticing what sparks my interest".
+* Arghhhhh I know I said I didn't want to give myself too many top-down goals, but it would be neat if I ended this year with two or three writing projects I could publicly point to for future job applications, for research work, etc.
 * I apply to and get into at least one promising masters program, giving me a plan for September onwards.
 * I feel alive and okay.
 
