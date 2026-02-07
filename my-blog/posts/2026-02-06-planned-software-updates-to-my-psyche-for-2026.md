@@ -12,7 +12,7 @@ Much of my unhappiness stems from finding joy excruciating to witness. When some
 
 This sucks. It is especially sucky when trying to deal with heartbreak. My ex said he would feel deeply happy if I found love. I told him I would be utterly and absolutely devastated if he found love. This is quite normal, but also, I do not want to live this way.
 
-I would like to be able to feel happy for other people. If my exes find happiness and fulfillment, I would like to feel joy for them. I would like for other peoples' good news to fuel me and my optimism in humanity. 
+I would like to be able to feel happy for other people. If my exes find happiness and fulfillment, I would like to feel joy for them. I would like for other peoples' good news to fuel me and a deeper optimism in humanity. 
 
 I believe this requires:
 a) understanding that life is not a zero sum game; that good things are not finite. A good thing happening to someone else does not automatically imply that you are deficient in some important way.
