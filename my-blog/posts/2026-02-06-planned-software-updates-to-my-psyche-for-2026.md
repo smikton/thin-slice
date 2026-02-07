@@ -4,7 +4,7 @@ title: Planned Software Updates to My Psyche for 2026
 date: 2026-02-07
 draft: false
 ---
-The psyche is surprisingly malleable, apparently. I hope to test this hypothesis this year, with hopes to release the following product updates:
+The psyche is surprisingly malleable, apparently. I hope to test this hypothesis this year, with plans to release the following product updates:
 
 **1. Feeling genuine happiness for other people**
 
