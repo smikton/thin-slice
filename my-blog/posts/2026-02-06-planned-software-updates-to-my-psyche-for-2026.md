@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: Planned Software Updates to My Psyche for 2026
+title: Planned software updates to my psyche for 2026
 date: 2026-02-07
 draft: false
 ---
