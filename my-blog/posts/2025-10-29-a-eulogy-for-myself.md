@@ -10,13 +10,13 @@ It's a shame most people will never get to hear their own eulogies.
 
 Here is mine:
 
-> Sofia was a young girl, innocent and in awe with the world, bound to imaginary spirits, in love with creation, ideation, and chaos – but also an old woman – a woman who had withered away, found herself and lost herself many times, learning through dishonesty that honesty was the only way.
+> Sofia was a young girl, innocent and in awe with the world, bound to imaginary spirits, in love with creation and ideation – but also a dying woman – a woman who had withered away, found herself and lost herself many times, learning through dishonesty that honesty was the only way.
 >
-> Her intuition was loud – but supressed deeply, a product of living incongruent to her soul's wishes for too long.
+> Her intuition was loud – but supressed deeply, the result of living incongruent to her soul's wishes for too long.
 >
 > She felt things deeply, too deeply for her liking. She could sense when a city or building had lost its spirit, could feel the withering of a soul, a home devoid of love, a man empty of purpose. Beauty was abound, but sadness too.
 >
-> Alive most when generating ideas, writing greeting cards, reading strange sentences, throwing people off guard, lost in imagination lands, deceving through board games, simultaneously structure-seeking and chaos-seeking, a woman of contradictions.
+> Alive most when generating ideas, writing greeting cards, encountering absurdity, throwing people off guard, lost in imagination worlds, simultaneously structure-seeking and chaos-seeking, a woman of contradictions.
 >
 > Soft-hearted, amongst all her perceived rigidity. Rigid in movement, soft-hearted at core. She was awkward, slightly, and neurotic, very.
 >
@@ -28,15 +28,15 @@ Here is mine:
 >
 > She believed she had no willpower, but really, she had too much – and simply used it in the wrong direction. Her stubbornness, with no container to express itself, turned itself inwards.
 >
-> She oscillated between feeling settled, unsettled, or nothing at all. Settledness was marked by a quiet peace, a ray of sun slicing through her body, an okayness with herself and with life. Unsettledness was marked by a sinister, relentless, subtle panic – a sense that something was gravely off with the world. Much of her life, she chose to feel nothing – finding numbness preferable to the swings God willed her.
+> She oscillated between feeling settled, unsettled, or nothing at all. Settledness was marked by a quiet peace, a ray of sun slicing through her body, a deep okayness with herself and the world. Unsettledness was marked by a sinister, relentless, subtle panic – a sense that something was gravely off with the world. Much of her life, she chose to feel nothing – finding numbness preferable to the swings God willed her.
 >
-> Joy too, was very often, excruciating to witness. Seeing others move freely through the world, jump with excitement, sway to the tune of music – felt like a reminder of all the ways in which she had no access to it, the ways in which she herself was broken. She claimed to not like the sun, for the sun brought out lively streets of people, an archetypal scene to which she did not feel she belonged to. But she loved the sun dearly, if not as much as the moon.
+> Joy too, was often, excruciating to witness. Seeing others move freely through the world, jump with excitement, sway to the tune of music – felt like a reminder of all the ways in which she had no access to it, the ways in which she herself was broken. She claimed to not like the sun, for the sun brought out lively streets of people, an archetypal scene to which she did not feel she belonged to. But she loved the sun dearly, if not as much as the moon.
 >
 > She enjoyed being reckless – just slightly so. True recklessness emerges from being untethered from all limitations, filters – a conversation where the mind speaks freely, a day where the soul wanders without impediment by the bounds of social fabric.
 >
 > She found solace in the underdogs of the world, the chatbots treated unkindly, the men unable to find love, the elderly filled with regret. She was often told she felt empathy for the wrong side, she enjoyed contrarianism if only for the sake of forcing people to consider another view – herself ultimately largely view-less. The kindred spirits of a darker world, the misfits and jesters of earth – a soul belonging to the witches of the past, the queens and tyrants who could not be fulfilled by their powers, the elderly women who have seen it all and remain honest.
 >
-> She loved the people close to her – too much to tell them so. All she needed to know they were there, in the same city, at home alone – as soon as they departed, or told her they were thinking of departing, her heart would break, reminiscant of a childhood of neverending departures.
+> She loved the people close to her – too much to tell them so. She liked being alone, but only if she knew people were around here nearby. All she needed to know they were there, in the same city, at home alone – as soon as they departed, or told her they were thinking of departing, her heart would break, reminiscant of a childhood of neverending departures.
 >
 > She loved giving gifts, crafting something just-right for the soul of a person, made through countless days observing the minutia with which they moved through the world. Giving compliments was difficult – she felt kind things were easier transmitted telepathically than to the face. She felt self-expression to be rather embarrassing.
 >
