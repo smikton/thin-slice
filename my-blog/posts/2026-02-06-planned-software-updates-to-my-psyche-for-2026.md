@@ -15,8 +15,12 @@ This sucks. It is especially sucky when trying to deal with heartbreak. My ex sa
 I would like to be able to feel happy for other people. If my exes are to find happiness and fulfillment, I would like to feel joy for them. I would like for other peoples' good news to fuel me and a deeper optimism in humanity. 
 
 I believe this requires:
+
+
 a) understanding that life is not a zero sum game; that good things are not finite. A good thing happening to someone else does not automatically imply that you are deficient in some important way.
-b) loving yourself. Many things are downstream of wanting to feel loved. And many things *feel* like a reminder that you are not loved (an ex moving on, someone else getting engaged while you are still single, etc.). If you are able to produce a constant reservoir of self-love somewhere deep within you, a belief that you really are okay in your current form - and whichever form you may evolve into, the pangs of sadness will not feel so bad, I imagine. This is also where God comes in. Apparently God loves you infinitely, as you are. That is pretty good stuff. 
+
+
+b) loving yourself. Many things are downstream of wanting to feel loved. And many things *feel* like a reminder that you are not loved (an ex moving on, someone else getting engaged while you are still single, etc.). If you are able to produce a constant reservoir of self-love somewhere deep within you, a belief that you really are okay in your current form - and whichever form you may evolve into, the pangs of sadness will not feel so bad, I imagine. This is also where God comes in. Apparently God loves you infinitely, as you are. Isn't that lovely. 
 
 **An apt example:** your partner provides you with safety; they make you feel loved. Your relationship ends, they move on, and fall in love with someone else. You feel a horrific, crushing pain, because your body interprets this as: you are not loved / you do not deserve love. The thing is, love is most pure when you do not cling to your partner, or to a thing they provide you, but when you are really okay with yourself, and they with themselves, and you both just love each other for some ineffable reason and are drawn to each other utterly and completely ***as you are*.** They will, inevitably, provide wonderful things, like safety, and comfort, and care, but you do not love them ***because*** they provide these things!!! 
 
