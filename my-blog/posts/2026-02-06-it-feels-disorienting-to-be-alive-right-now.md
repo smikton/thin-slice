@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: It feels disorienting to be alive right now
+title: Disorientation, AGI, womanhood
 date: 2026-02-07
 draft: false
 ---
