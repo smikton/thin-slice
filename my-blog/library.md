@@ -3,7 +3,7 @@ layout: page.njk
 title: Library
 permalink: /library/
 ---
-Some of my favourite things. 
+A library of some of my favourite things. 
 
 ## Essays
 
