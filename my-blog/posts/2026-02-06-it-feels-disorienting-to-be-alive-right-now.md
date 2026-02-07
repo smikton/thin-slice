@@ -1,10 +1,12 @@
 ---
 layout: post.njk
-title: Disorientation, AGI, womanhood
+title: It feels quite disorientating to be alive right now
 date: 2026-02-07
 draft: false
 ---
 It feels quite disorientating to be alive right now. Especially if you spend an unhealthy amount of time on twitter. 
+
+disorientating or disorientating? 
 
 It is lovely logging onto Twitter in the morning, after having quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”. ](https://x.com/BoringBiz_/status/2019414912552878526)The thing is, “you can just do things” applies to being an idiot, too. In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. But I do not really know how to orient myself. 
 
