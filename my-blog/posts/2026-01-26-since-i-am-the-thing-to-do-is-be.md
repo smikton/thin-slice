@@ -3,7 +3,7 @@ layout: post.njk
 title: '"Since I am, the thing to do is be"'
 date: 2026-01-27
 ---
-I stumbled across my favourite book of all time recently, which is a lovely feeling. It is called "the Hour of the Star", by Clarice Lispector. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most of contemporary writing seems to be regressesing to the mean, which means, basically it all sounds the same. Mine included. I don't think one can escape this unless you leave society. Anyways I wanted to share some of my favourite quotes from this book because I just loved it so much.
+I stumbled across my favourite book of all time recently, which is a lovely feeling. It is called "the Hour of the Star", by Clarice Lispector. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most contemporary writing seems to be regressesing to the mean, which means,  it basically all sounds the same. Mine included. I don't think one can escape this unless you leave society. Anyways I wanted to share some of my favourite quotes from this book because I just loved it so much.
 
 > "Make no mistake, I only achieve simplicity with enormous effort."
 >
