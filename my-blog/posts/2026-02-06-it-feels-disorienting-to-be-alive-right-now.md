@@ -1,10 +1,10 @@
 ---
 layout: post.njk
-title: It feels quite disorientating to be alive right now
+title: It feels disorientating to be alive right now
 date: 2026-02-07
 draft: false
 ---
-It feels quite disorientating to be alive right now. Especially if you spend an unhealthy amount of time on twitter. 
+It feels quite disorientating to be alive right now. Especially if you spend an unhealthy amount of time on twitter. Or, I should say - it feels quite disorientating to be alivae righ tnow if you spend a lot of time on X.com, do not have strong cognitive defenses, and have yet to internalize that we are all this together (humanity), you. 
 
 disorientating or disorientating? 
 
