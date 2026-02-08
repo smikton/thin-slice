@@ -12,13 +12,13 @@ Much of my unhappiness stems from finding joy excruciating to witness. When some
 
 This sucks. It is especially sucky when trying to deal with heartbreak. My ex said he would feel deeply happy if I found love. I told him I would be utterly and absolutely devastated if he found love. This is quite normal, but also, I do not want to live this way.
 
-I would like to be able to feel happy for other people. If my exes are to find happiness and fulfillment, I would like to feel joy for them. I would like for other peoples' good news to fuel me and a deeper optimism in humanity. 
+I would like to be able to feel happy for other people. If my exes are to find happiness and fulfillment, I would like to feel joy for them. If someone gets a job while I am unemployed, I would like to imagine how nice it must feel for them. I would like for other peoples' good news to fuel me and a deeper optimism in humanity. 
+
+Often, it feels like the only people I am genuinely happy for are my immediate nuclear family members, because seomhow there is no competition between us. 
 
 I believe this requires:
 
-
 a) understanding that life is not a zero sum game; that good things are not finite. A good thing happening to someone else does not automatically imply that you are deficient in some important way.
-
 
 b) loving yourself. Many things are downstream of wanting to feel loved. And many things *feel* like a reminder that you are not loved (an ex moving on, someone else getting engaged while you are still single, etc.). If you are able to produce a constant reservoir of self-love somewhere deep within you, a belief that you really are okay in your current form - and whichever form you may evolve into, the pangs of sadness will not feel so bad, I imagine. This is also where God comes in. Apparently God loves you infinitely, as you are. Isn't that lovely. 
 
@@ -36,7 +36,7 @@ Part of understanding that bad feelings are not infinite is actually feeling the
 
 "Bad feelings" are often so bad that you subconsciously find a million ways to distract yourself from looking at them: you play online chess, you watch YouTube videos, you move countries, all rather than actually sitting and feeling the feeling you do not want to feel. I have spent years avoiding feelings. Most humans have. However, the pain of actually sitting with the thing you are avoiding is often far less painful than the suffering that emerges from avoiding this feeling. So, feel your feelings.
 
-A helpful trick for me has been realizing that I am not my feelings. Nor am I my thoughts. For example, when I feel a swell of jealous rage coming online, my instinct is to start crying and screaming and then find as many ways as possible to avoid thinking about the thing that is causing me pain. But what you can also do (in addition to crying and screaming, which I think sometimes is healthy and necessary) is observe the physical sensations of jealousy arising in the heart, in the chest, almost from a god-like perspective, imagining your body as a scientific object of study. Often, when you actually sit with the feelings this way, you will notice they start moving around in the body. When the feelings are done shape-shifting, you have done something called "processing an emotion.
+A helpful trick for me has been realizing that I am not my feelings. Nor am I my thoughts. For example, when I feel a swell of jealous rage coming online, my instinct is to start crying and screaming and then find as many ways as possible to avoid thinking about the thing that is causing me pain. But what you can also do (in addition to crying and screaming, which I think is healthy and necessary) is observe the physical sensations of jealousy arising in the heart, in the chest, almost from a god-like perspective, imagining your body as a scientific object of study. Often, when you actually sit with the feelings this way, you will notice that a) they are not actually so bad b) they start moving around in the body. When the feelings are done shape-shifting, you have done something called "processing an emotion".
 
 **4. Not Dwelling in Misery**
 
@@ -45,6 +45,8 @@ I am someone who was born to feel things deeply. People tell me this is a beauti
 I realized, recently, that I want other people to feel bad for me. Perhaps because pity feels like care and love, or attention, I am not sure, but this is not a good long-term strategy. The temporary care provided by pity is no match for the infinite care that rests within you once you banish and do away with all your self-loathing.
 
 I believe, whilst much of my suffering is just a fact of life, and genetics, and the way I am, much of it is self-reinforcing, too. And so, I would like to complain less and broadcast my misery less. There is a beauty in being able to accept yourself as you are, including the inevitable sadness, and hold it with a knowing strength that it too is temporary. In more blunt terms, I want to do a better job of sucking it up and dealing with what I have.
+
+When I am sad, there is this thing that happens, that I want to believe that my sadness is somehow worse, or more severe than other people's because this would then somehow justify the suffering, because at least it would rank on some podium somewhere. I get a wierd delight when people tell me, you feel things so deeply, or it must be hard to feel as much as you do xyz. It gives some narrative to make the pain feel meaningful. But I also think, one can try to simply let go of narratives. 
 
 **5. Believing in Myself**
 
