@@ -5,6 +5,8 @@ date: 2026-01-27
 ---
 I stumbled across my favourite book of all time recently, which is a lovely feeling. It is called "the Hour of the Star", by Clarice Lispector. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most of contemporary writing seems to be regressesing to the mean, which means, basically it all sounds the same. Mine included. I don't think one can escape this unless you leave society. Anyways I wanted to share some of my favourite quotes from this book because I just loved it so much.
 
+> "Make no mistake, I only achieve simplicity with enormous effort."
+>
 > "All the world began with a yes. One molecule said yes to another molecule and life was born. But before prehistory there was the prehistory of the prehistory and there was the never and there was the yes. It was ever so. I don't know why, but I do know that the universe never began."
 >
 > "That girl didn't know she was what she was, just as a dog doesn't know it's a dog. So she didn't feel unhappy. The only thing she wanted was to live. She didn't know for what, she didn't ask questions. Maybe she thought there was a little bitty glory in living. She thought people had to be happy. So she was. Before her birth was she an idea? Before her birth was she dead? And after her birth she would die? What a thin slice of watermelon."
@@ -20,8 +22,6 @@ I stumbled across my favourite book of all time recently, which is a lovely feel
 > "Only then did she dress herself in herself, she spent the rest of her day obediently playing the role of being."
 >
 > "His dream was to have money to do exactly what he wanted: nothing."
->
-> "Make no mistake, I only achieve simplicity with enormous effort."
 >
 > "She wasn't crying because of the life she led: because, never having led any other, she'd accepted that with her that was just the way things were. But I also think she was crying because, through the music, she might have guessed there were other ways of feeling, there were more delicate existences and even a certain luxury of soul."
 >
