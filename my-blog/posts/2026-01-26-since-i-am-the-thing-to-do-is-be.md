@@ -3,7 +3,7 @@ layout: post.njk
 title: '"Since I am, the thing to do is be"'
 date: 2026-01-27
 ---
-I stumbled across my favourite book of all time recently, which is a lovely feeling. It left me giggling and a bit in awe. As R Bartlett says, much writing nowadays seems to regress to the mean - which means, basically it all sounds the same. Mine included. I don't think one can escape this unless you leave society. Anyways I wanted to share some of my favourite quotes from this book because i just loved it so much.
+I stumbled across my favourite book of all time recently, which is a lovely feeling. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most of contemporary writing seems to be regressesing to the mean, which means, basically it all sounds the same. Mine included. I don't think one can escape this unless you leave society. Anyways I wanted to share some of my favourite quotes from this book because I just loved it so much.
 
 > "All the world began with a yes. One molecule said yes to another molecule and life was born. But before prehistory there was the prehistory of the prehistory and there was the never and there was the yes. It was ever so. I don't know why, but I do know that the universe never began."
 >
@@ -37,4 +37,4 @@ I stumbled across my favourite book of all time recently, which is a lovely feel
 >
 > "But do not mourn the dead: they know what they are doing."
 
-And yes, this is where thin-slice-of-watermelon derives from. I just love this book SO MUCH.
+And yes, this is where thin-slice-of-watermelon comes from.
