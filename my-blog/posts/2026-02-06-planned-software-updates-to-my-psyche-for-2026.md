@@ -8,13 +8,13 @@ The psyche is surprisingly malleable, apparently. I hope to test this hypothesis
 
 **1. Feeling genuine happiness for other people**
 
-Much of my unhappiness stems from finding joy excruciating to witness. When someone else shares good news, gets a new job, announces an engagement, or is simply just enjoying life, I often feel incredibly, deeply sad. All good things point to some lack in me, resulting in this twisted thing where I often kind of feel better knowing that other people are not doing that great.
+Much of my unhappiness stems from finding joy excruciating to witness. When I see someone share good news, achieve something impressive, or simply announce that they are enjoying life, I often feel incredibly, deeply sad. All good things point to some lack in me, resulting in this twisted dynamic where I often feel better knowing that other people are not doing that great.
 
-This sucks. It is especially sucky when trying to deal with heartbreak. My ex said he would feel deeply happy if I found love. I told him I would be utterly and absolutely devastated if he found love. This is quite normal, but also, I do not want to live this way.
+This sucks. It especially sucks when trying to deal with heartbreak. My ex said he would feel deeply happy if I found love. I told him I would be utterly and absolutely devastated if he found love. This is quite normal, but also, I do not want to live this way.
 
-I would like to be able to feel happy for other people. If my exes are to find happiness and fulfillment, I would like to feel joy for them. If someone gets a job while I am unemployed, I would like to imagine how nice it must feel for them. I would like for other peoples' good news to fuel me and a deeper optimism in humanity. 
+Often, it feels like the only people I am genuinely happy for are the members of my immediate nuclear family, because, by virtue of sharing the same blood, I feel no competetive dynamics.
 
-Often, it feels like the only people I am genuinely happy for are my immediate nuclear family members, because seomhow there is no competition between us. 
+I would like to be able to feel happy for other people. I would like for other people's good news to fuel me and a deeper optimism in humanity.
 
 I believe this requires:
 
@@ -51,3 +51,7 @@ When I am sad, there is this thing that happens, that I want to believe that my 
 **5. Believing in Myself**
 
 For most of my life, I have relied on other people believing in me in order to take any form of meaningful action in the world, because my bouts of self-belief never lasted long enough. Self-belief often feels delusional to me. I use the word delusion to gesture towards these nagging ideas that your soul yearns to realize, that by societal standards may seem a bit odd, but it's what you really want. I basically think you should try to do this thing at all costs. And this will require self-belief. And it is worth it.
+
+\*\**
+
+The process of writing this blog post appears to have been suprisingly cathartic. In the days after, a strange feeling of robustness emerged. I went about my days - I noticed all the usual triggers that usually would have set me off, and I simply did not care for them. I questioned whether I might be dissociating, but alas, I think I am just fine and it is okay to be fine and how wonderful it feels to be a human todoya.
