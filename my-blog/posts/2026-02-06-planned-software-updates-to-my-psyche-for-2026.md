@@ -51,3 +51,7 @@ For most of my life, I have relied on other people believing in me in order to t
 \*\**
 
 *The process of writing this blog post appears to have been surprisingly cathartic. In the days after, a strange feeling of robustness emerged within me. I went about my days, noticing all the triggers that usually would have set me off, yet felt somewhat impenetrable to them. I questioned whether I might be dissociating, decided it did not matter, and meditated on the remarkability of the human body to rewire itself and withstand great suffering.*
+
+*\*\*** 
+
+*And then, a few hours later, I felt terrible again. So it goes, so it goes. The trees are still standing and I feel bad and there is nothing I can do.*
