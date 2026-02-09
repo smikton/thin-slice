@@ -11,11 +11,11 @@ I stumbled across my favourite book of all time recently, which is a lovely feel
 >
 > "That girl didn't know she was what she was, just as a dog doesn't know it's a dog. So she didn't feel unhappy. The only thing she wanted was to live. She didn't know for what, she didn't ask questions. Maybe she thought there was a little bitty glory in living. She thought people had to be happy. So she was. Before her birth was she an idea? Before her birth was she dead? And after her birth she would die? What a thin slice of watermelon."
 >
-> "I'll miss myself so bad when I die."
->
 > "And it so happens that she had no consciousness of herself and didn't complain at all, she even thought she was happy. She wasn't an idiot but she had the pure happiness of idiots. And she also didn't pay attention to herself: she didn't know."
 >
 > "If she was dumb enough to ask herself 'who am I?' she would fall flat on her face. Because 'who am I?' creates a need. And how can you satisfy that need? Those who wonder are incomplete."
+>
+> "I'll miss myself so bad when I die."
 >
 > "She vaguely thought from far off and without words this: since I am, the thing to do is to be."
 >
@@ -37,4 +37,4 @@ I stumbled across my favourite book of all time recently, which is a lovely feel
 >
 > "But do not mourn the dead: they know what they are doing."
 
-I find myself just reciting some of these lines as I go about my day now, it brings me such joy. And yes, this is where thin-slice-of-watermelon comes from!
+I find myself reciting some of these lines as I go about my day now, it brings me such joy. And yes, this is where thin-slice-of-watermelon comes from!
