@@ -54,4 +54,4 @@ For most of my life, I have relied on other people believing in me in order to t
 
 *\*\*** 
 
-*And then, a few hours later, I felt terrible again. So it goes, so it goes. The trees are still standing and I feel bad and there is nothing I can do.*
+*And then, a few hours afer writing the above paragraph, I felt terrible again. So it goes, so it goes. The trees still stand, and I will eventually too.*
