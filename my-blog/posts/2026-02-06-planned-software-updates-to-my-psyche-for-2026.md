@@ -8,7 +8,7 @@ The psyche is surprisingly malleable, apparently. I hope to test this hypothesis
 
 **1. Feeling genuine happiness for other people**
 
-Much of my unhappiness stems from finding joy excruciating to witness. When I see someone share good news, achieve something impressive, or simply announce that they are enjoying life, I reflexively begin to feel incredibly, deeply sad. All good things point to some lack in me, resulting in this twisted dynamic where I often prefer knowing other people are not doing all that great.
+Much of my unhappiness stems from finding joy excruciating to witness. When I see someone share good news, achieve something impressive, or simply announce that they are enjoying life, I reflexively begin to feel incredibly, deeply sad. All good things point to some lack in me, resulting in this twisted dynamic where I often prefer knowing other people are not doing very well. 
 
 This sucks. It especially sucks when trying to deal with heartbreak. My ex said he would feel deeply happy if I found love. I told him I would be utterly and absolutely devastated if he found love. This is quite normal, but also, I do not want to live this way.
 
