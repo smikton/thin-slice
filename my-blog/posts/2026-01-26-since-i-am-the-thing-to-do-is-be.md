@@ -5,9 +5,9 @@ date: 2026-01-27
 ---
 I stumbled across my favourite book of all time recently, which is a lovely feeling. It is called "the Hour of the Star", by Clarice Lispector. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most contemporary writing seems to be regressesing to the mean, which means,  it basically all sounds the same. Mine included. I don't think one can escape this unless you leave society. Anyways I wanted to share some of my favourite quotes from this book because I just loved it so much.
 
-> "Make no mistake, I only achieve simplicity with enormous effort."
->
 > "All the world began with a yes. One molecule said yes to another molecule and life was born. But before prehistory there was the prehistory of the prehistory and there was the never and there was the yes. It was ever so. I don't know why, but I do know that the universe never began."
+>
+> "Make no mistake, I only achieve simplicity with enormous effort."
 >
 > "That girl didn't know she was what she was, just as a dog doesn't know it's a dog. So she didn't feel unhappy. The only thing she wanted was to live. She didn't know for what, she didn't ask questions. Maybe she thought there was a little bitty glory in living. She thought people had to be happy. So she was. Before her birth was she an idea? Before her birth was she dead? And after her birth she would die? What a thin slice of watermelon."
 >
@@ -37,4 +37,4 @@ I stumbled across my favourite book of all time recently, which is a lovely feel
 >
 > "But do not mourn the dead: they know what they are doing."
 
-I find myself just reciting some of these lines as I go about my day now, it brings me a strange solace. And yes, this is where thin-slice-of-watermelon comes from :)
+I find myself just reciting some of these lines as I go about my day now, it brings me such joy. And yes, this is where thin-slice-of-watermelon comes from!
