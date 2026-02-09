@@ -24,7 +24,7 @@ b) loving yourself. Many things are downstream of wanting to feel loved. And man
 
 **2. Internalizing "There is the perception of infinity, rather than reality of it"**
 
-I do not like feeling bad. I feel bad very often. Badness can manifest in a million different ways: as a steadfast belief that you are a failure, a never-ending stream of self-critical thoughts, a barrage of worries that I will never find love and be forever alone. It can also manifest in less legible, bodily ways: an intense tightness in the chest, a racing heartbeat that refuses to end, a restlessness in the arms that surfaces an urge to have them amputated.
+I do not like feeling bad. I feel bad very often. Badness can manifest in a million different ways: as a steadfast belief that I am a failure, a never-ending stream of self-critical thoughts, a barrage of worries that I will never find love and be forever alone. It can also manifest in less legible, bodily ways: an intense tightness in the chest, a racing heartbeat that refuses to end, a restlessness in the arms that surfaces an urge to have them amputated.
 
 Bad feelings are made worse by the belief that they are infinite. Even if I have ample evidence of my bad feelings eventually subsiding, when in them, I continuously do not believe that they will end. The Buddhists like to talk about impermanence, but I prefer a phrase a wise person once shared with me: "There is the perception of infinity, rather than the reality of it." This stuck with me, and I try to tell myself this each time I am going through a bad feeling. This too, shall pass. 
 
