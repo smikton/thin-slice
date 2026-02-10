@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: It feels disorientating to be alive right now
+title: Gap year during the singularity
 date: 2026-02-07
 draft: false
 ---
