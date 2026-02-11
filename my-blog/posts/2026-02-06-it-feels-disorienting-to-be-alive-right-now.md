@@ -4,11 +4,15 @@ title: Gap year during the singularity
 date: 2026-02-07
 draft: false
 ---
-It feels quite disorientating to be alive right now. Especially if you spend an unhealthy amount of time on twitter. Or, I should say - it feels quite disorientating to be alivae righ tnow if you spend a lot of time on X.com, do not have strong cognitive defenses, and have yet to internalize that we are all this together (humanity), you. 
+It feels quite disorienting to be alive right now. Or, I should say, it feels quite disorienting to be alive right now if you spend a concerning amount of time on X.com, do not possess strong cognitive defenses, have yet to internalize that we (humanity) are all in this together, and that the sky is still blue and always has been. 
 
-disorientating or disorientating? 
+I feel disoriented because I am a bit shocked at the rapid pace of AI progress, more shocked at the reactions of people working closely in AI labs - and I am trying to 
 
-It is lovely logging onto Twitter in the morning, after having quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”. ](https://x.com/BoringBiz_/status/2019414912552878526)The thing is, “you can just do things” applies to being an idiot, too. In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. But I do not really know how to orient myself. 
+It is lovely logging onto Twitter in the morning, after having recently quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”.](https://x.com/BoringBiz_/status/2019414912552878526) In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. And I believe somewhere deep down that in a world where AI kills us all or frees us all from wage labour and results in a utopia or in a world where none of this really comes to fruition and we just continue continuing on - "feeling alive" is really the only task at hand. 
+
+But I do not really know how to orient myself. 
+
+Every few months, a slew of senior AI safety workers at top AI companies will quit their jobs - causing everyone to panic. Recently, this man quit to go pursue a poetry degree. I responded to him, "you are my hero" - he responded, "thank you, I hope you are well :)". 
 
 **Freaky ones**
 
