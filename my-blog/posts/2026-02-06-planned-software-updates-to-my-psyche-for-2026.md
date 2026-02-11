@@ -48,7 +48,7 @@ And so, while I do believe that much of how I feel is just a fact of life and wo
 
 For most of my life, I have relied on other people believing in me in order to take any form of meaningful action in the world, because my own bouts of self-belief never lasted long enough. By "believing in yourself," I mean many things, including: believing that you can make it through hard times, believing that you are capable of doing the things you have evidence of being capable of - and probably things far beyond, and believing that your instincts, however illegible, are trying to tell you *something*.
 
-Perhaps most importantly, I think believing in yourself also means believing in your delusions. I use the word delusion to gesture towards those nagging ideas that your soul yearns to see through - that by societal standards may seem a bit odd, but are the things you really want. The things that light you up, the things you fantasize about, the things that consume you into the abyss. I basically think you should try to do these things at all costs. And it will only be possible through a delusional amount of self-belief.
+Perhaps most importantly, I think believing in yourself also means believing in your delusions. I use the word delusion to gesture towards those nagging ideas that your soul yearns to see through - that by societal standards may seem a bit odd, but are the things you really want. The things that light you up, the things you fantasize about, the things that consume you into the abyss. I basically think you should try to do these things at all costs. And it may only be possible through a delusional amount of self-belief.
 
 \*\**
 
