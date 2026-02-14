@@ -8,7 +8,9 @@ It feels quite disorienting to be alive right now. Or, I should say, it feels qu
 
 I feel disoriented because I am a bit shocked at the rapid pace of AI progress, more shocked at the reactions of people working closely in AI labs - and I am trying to 
 
-It is lovely logging onto Twitter in the morning, after having recently quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”.](https://x.com/BoringBiz_/status/2019414912552878526) In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. And I believe somewhere deep down that in a world where AI kills us all or frees us all from wage labour and results in a utopia or in a world where none of this really comes to fruition and we just continue continuing on - "feeling alive" is really the only task at hand. 
+I think it is unfair for God to have made me single during such a period in history, when really, the only thing there is to do for us ordinary folk is to get some hugs and go on with our days. 
+
+It is lovely logging onto Twitter in the morning, after having recently quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”.](https://x.com/BoringBiz_/status/2019414912552878526) In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. And I believe somewhere deep down that in a world where AI kills us all or frees us all from wage labour and results in a utopia or in a world where none of this really comes to fruition and we just continue continuing on - "feeling alive" is a form of mastery worth sustaining. 
 
 But I do not really know how to orient myself. 
 
