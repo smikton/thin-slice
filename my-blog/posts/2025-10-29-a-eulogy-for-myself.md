@@ -10,7 +10,7 @@ It's a shame most people will never get to hear their own eulogies.
 
 Here is mine:
 
-> Sofia was a young girl, innocent and in awe with the world, bound to imaginary spirits, in love with creation and ideation – but also a dying woman – a woman who had withered away, found herself and lost herself many times, learning through dishonesty that honesty was the only way.
+> Sofia was a young girl, innocent and in awe with the world, bound to imaginary spirits, in love with creation – but also a dying woman – a woman who had withered away, found herself and lost herself many times, learning through dishonesty that honesty was the only way.
 >
 > Her body and will equally confused, drowned by the interrogative spirit of an answer-seeking mind - taking too long to learn that oft there were none. 
 >
@@ -44,6 +44,6 @@ Here is mine:
 >
 > Her entire journal was filled with anecdotes and musings about herself, she wondered – will ever these pages be filled with ideas about the world?
 >
-> She yearned to create things in the world. She dreamt of making films, designing cities, writing novels, making crafts – of being the radio host for all the elevator music in the world, the interior designer of all the hospitals of the world, the god in charge of re-creating life on a new planet. She yearned for power, of the benign kind, only if for the sake of giving birth to beauty.
+> She yearned to create things in the world. She dreamt of making films, designing cities, writing novels, making crafts – of being the radio host for all the elevator music in the world, the interior designer of all the hospitals of the world, the god in charge of re-creating life on a new planet. She yearned for power, of the benign kind, if only to give birth to beauty.
 >
-> She learned through many iterations what it meant to be alive, how to exist in a soul that felt too deeply, to accept all of life as it came her way, to not flinch away, to look into the eyes of the beast and shout that she was here – that she existed. Amongst all her agonies and incertitudes, she was here – it was all real, and this is what it meant to be beating and alive.
+> She learned through many iterations what it meant to be alive, how to exist in a soul that felt too deeply, to accept all of life as it came her way, to not flinch away, to sit amongst all her agonies and incertitudes, and yell she was here – it was all real, and this is what it meant to be beating and alive.
