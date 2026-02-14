@@ -4,13 +4,15 @@ title: A eulogy (for myself)
 date: 2025-10-30
 draft: false
 ---
-For my 27th birthday, [](https://thegreatunblockening.com/category/uncategorized/)I thought it’d be nice to write myself a eulogy. The idea was to help grieve all the past versions of myself no longer serving their purpose. 
+It is my 27th birthday today. Instead of killing myself, I thought I'd write myself a eulogy. They say that suicidal thoughts often signal a version of you that no longer serves its purpose is ready to die. It is important that you let this metaphorical death happen, and do not actually kill yourself.
 
 It's a shame most people will never get to hear their own eulogies.
 
 Here is mine:
 
 > Sofia was a young girl, innocent and in awe with the world, bound to imaginary spirits, in love with creation and ideation – but also a dying woman – a woman who had withered away, found herself and lost herself many times, learning through dishonesty that honesty was the only way.
+>
+> Her body and will equally confused, drowned by the interrogative spirit of an answer-seeking mind - taking too long to learn that oft there were none. 
 >
 > Her intuition was loud – but supressed deeply, the result of living incongruent to her soul's wishes for too long.
 >
