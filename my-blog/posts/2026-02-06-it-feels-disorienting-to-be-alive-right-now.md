@@ -6,15 +6,19 @@ draft: false
 ---
 It feels quite disorienting to be alive right now. Or, I should say, it feels quite disorienting to be alive right now if you spend a concerning amount of time on X.com, do not possess strong cognitive defenses, have yet to internalize that we (humanity) are all in this together, and that the sky is still blue and always has been. 
 
-I feel disoriented because I am a bit shocked at the rapid pace of AI progress, more shocked at the reactions of people working closely in AI labs - and I am trying to 
+I feel disoriented because I am a bit shocked at the rapid pace of AI progress, more shocked at the reactions of people working closely in AI labs - and I am trying to calibrate how worried I should feel, and what purpose this worry serves. 
 
-I think it is unfair for God to have made me single during such a period in history, when really, the only thing there is to do for us ordinary folk is to get some hugs and go on with our days. 
+I think it is unfair for God to have made me single during such a period in history, when really, the only thing there is to do for us ordinary folk is to get some hugs and go on with our days. Alas, yes, god is teaching me some lesson ... i am listening ... yes ... it is my fault - amen!
 
-It is lovely logging onto Twitter in the morning, after having recently quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”.](https://x.com/BoringBiz_/status/2019414912552878526) In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. And I believe somewhere deep down that in a world where AI kills us all or frees us all from wage labour and results in a utopia or in a world where none of this really comes to fruition and we just continue continuing on - "feeling alive" is a form of mastery worth sustaining. 
+It is lovely logging onto Twitter in the morning, after having recently quit my job, (in AI policy, no less!) and reading: [“If you have a job right now, do everything you can to hold on to it”.](https://x.com/BoringBiz_/status/2019414912552878526) In truth, I quit because I have been slowly withering away and felt it important to try to feel alive again. And I believe somewhere deep down that in a world where AI kills us all or frees us all from wage labour and results in a utopia or in a world where none of this really comes to fruition and we just continue continuing on - the art of "feeling alive" is a form of mastery worth sustaining. 
 
-But I do not really know how to orient myself. 
+Whether taking a gap year at this point in time was a good idea or not, is a question I do not care for. I have no more capacity for regret left within me, I simply act, and meet all my consequences with love. Overthinking and careful decision-making have ruined me far more then recklessness ever could. 
+
+That being said, I do not really know how to orient myself. 
 
 Every few months, a slew of senior AI safety workers at top AI companies will quit their jobs - causing everyone to panic. Recently, this man quit to go pursue a poetry degree. I responded to him, "you are my hero" - he responded, "thank you, I hope you are well :)". 
+
+My insticnt re what to do is some combination of use AI agentic tools, take some courses on AI governance and AGI strategy to "upskill" (as I downskill the rest of my cognitive forces), and go spend time completely isolated as far away from humans as physcially possible. 
 
 **Freaky ones**
 
