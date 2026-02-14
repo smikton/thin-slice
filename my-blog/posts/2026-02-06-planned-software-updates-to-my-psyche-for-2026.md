@@ -18,7 +18,7 @@ I believe this requires:
 
 a) understanding that life is not a zero-sum game; that good things are not finite. A good thing happening to someone else does not imply that you are deficient in some important way, or that fewer good things await you.
 
-b) loving yourself. A lot of jealousy is downstream of wanting to feel loved. And many things feel like a reminder that you are not loved (an ex moving on, a friend getting engaged while you are still single, etc.). If you are able to produce a constant reservoir of self-love somewhere deep within you, a belief that you really are okay in whichever form you take, the pangs of sadness in response to good news will not feel so bad. 
+b) loving yourself. A lot of jealousy is downstream of wanting to feel loved. And many things feel like a reminder that you are not loved (an ex moving on, a friend getting engaged while you are still single, etc.). If you are able to produce a constant reservoir of self-love somewhere deep within you, a belief that you really are okay in whichever form you take, the envy-induced pangs of sadness will not feel so bad. 
 
 Treating yourself this way also makes you more receptive to love when it does come along. Love is most pure when you do not cling to your partner, or to something they provide you, but when you are really okay with yourself, and they with themselves, and you both just love each other for some ineffable reason, utterly and completely *as you are*. They will, inevitably, provide wonderful things, like safety, and comfort, and care, but you do not love them *because* they provide these things!!! Jealousy thrives on a belief that love is a thing that exists outside of you, a commodity to be exchanged and provided to you. The happiness of others becomes a lot easier to cope with, and appreciate, when you realize that love lies within you too, and always has. 
 
@@ -42,13 +42,13 @@ I was born to feel things deeply. People tell me this is a beautiful gift, becau
 
 When I am sad, I find it helpful to believe that my sadness is somehow worse, or more profound, than other people's - because this gives meaning to my pain, thereby justifying my suffering. I often delight in people telling me, "wow, it must be hard to feel as much as you do", or "I can't imagine having gone through xyz". And I think that this drive to win at the game of sadness has inadvertently led me to *wanting* other people to feel bad for me. Perhaps over time, pity has come to feel similar to, if not indistinguishable from, care. The problem with this is, if your body starts to believe that the only way to access care is through pity, it will decide that a stasis of sadness and misery is a suitable strategy for being. However, the temporary care provided by pity is no match for the boundless care that you can provide yourself once you do away with all your self-loathing. People feeling happy for your genuine happiness is much better than people feeling pity for your genuine sadness.
 
-And so, while I do believe that much of how I feel is just a fact of life and womanhood and genetics, much of it is self-reinforcing, too. I hope, therefore, to complain a bit less; to seek less reassurance from the outside world; and to accept myself as I am, including the inevitable sadness, and trust that it, too, shall pass.
+And so, while I do believe that much of how I feel is just a fact of life and womanhood and genetics, much of it is self-reinforcing, too. I hope, therefore, to complain a bit less; to seek less reassurance from the outside world; and to accept myself as I am, including the inevitable sadness.
 
 **5. Believing in Myself**
 
-For most of my life, I have relied on other people believing in me in order to take any form of meaningful action in the world, because my own bouts of self-belief never lasted long enough. By "believing in yourself," I mean many things, including: believing that you can make it through hard times, believing that you are capable of doing the things you have evidence of being capable of - and probably things far beyond, and believing that your instincts, however illegible, are trying to tell you *something*.
+For most of my life, I have relied on other people believing in me in order to take any form of meaningful action in the world, because my own bouts of self-belief never lasted long enough. By 'believing in yourself,' I mean many things, including believing that you have fundamental worth as a human being, that you are capable of doing the things you have evidence of being capable of—and probably far beyond—that you can make it through hard times, and that deep down, you really are okay.
 
-Perhaps most importantly, I think believing in yourself also means believing in your delusions. I use the word delusion to gesture towards those nagging ideas that your soul yearns to see through - that by societal standards may seem a bit odd, but are the things you really want. The things that light you up, the things you fantasize about, the things that consume you into the abyss. I basically think you should try to do these things at all costs. And it may only be possible through a delusional amount of self-belief.
+Perhaps most importantly, I think believing in yourself also means believing in your delusions. I use the word delusion to gesture towards those nagging ideas that your soul yearns to see through - that by societal standards may seem a bit odd, but are the things you really want. The things that light you up, the things you fantasize about, the things that consume you into the abyss. I basically think you should try to do these things at all costs. And they will probably require a delusional amount of self-belief.
 
 \*\**
 
@@ -56,4 +56,4 @@ Perhaps most importantly, I think believing in yourself also means believing in 
 
 \*\**
 
-*And then, a few hours after writing the above paragraph, I felt terrible again. So it goes, so it goes. The trees still stand, and I will eventually too.*
+*And then, shortly after writing the above, I felt terrible again. I read each lesson I had so recently ascended to, and found that collectively, they meant nothing at all. So it goes, so it goes. The trees still stand, and one day I will too.*
