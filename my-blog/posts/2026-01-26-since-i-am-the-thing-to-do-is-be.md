@@ -3,7 +3,9 @@ layout: post.njk
 title: '"Since I am, the thing to do is be"'
 date: 2026-01-27
 ---
-I stumbled across my favourite book of all time recently, which is a lovely feeling. It is called "the Hour of the Star", by Clarice Lispector. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most contemporary writing seems to be regressesing to the mean, which means,  it basically all sounds the same. Mine included. I don't think one can escape this unless you leave society. But the writing in this book felt so rich, so new - like nothing I had ever encountered before. It was so refreshing. I wanted to share some of my favourite quotes from this book because I just loved it so much.
+I stumbled across my favourite book of all time recently, which is a lovely feeling. It is called "the Hour of the Star", by Clarice Lispector. It left me giggling and a bit in awe. As Rich Bartlett has [commented](https://x.com/RichDecibels/status/2012441585493967168), most contemporary writing seems to be regressesing to the mean, which means,  it basically all sounds the same. Mine included. I don't think one can escape this unless you leave society. 
+
+But the writing in this book felt so rich, so new—I felt like I was being slapped in the face at the turn of every page. I laughed mostly at the novelty of it all; it felt so refreshing to be reading something so absurd. Apparently Lispector never really read books or old literature, making these words feel purely hers, in this distinct, alien fashion. I wanted to share some of my favourite quotes from this book because I just loved it so much.
 
 > "All the world began with a yes. One molecule said yes to another molecule and life was born. But before prehistory there was the prehistory of the prehistory and there was the never and there was the yes. It was ever so. I don't know why, but I do know that the universe never began."
 >
