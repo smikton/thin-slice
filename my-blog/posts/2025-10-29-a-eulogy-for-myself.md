@@ -4,7 +4,7 @@ title: A eulogy (for myself)
 date: 2025-10-30
 draft: false
 ---
-It is my 27th birthday today. Instead of killing myself, I thought I'd write myself a eulogy. They say that suicidal thoughts often signal a version of you that no longer serves its purpose is ready to die. It is important that you let this metaphorical death happen, and do not actually kill yourself.
+It is my 27th birthday today. Instead of killing myself, I thought I'd write myself a eulogy. They say that suicidal thoughts often signal that a version of you that no longer serves its purpose is ready to die. It is important that you let this metaphorical death happen, and do not actually kill yourself.
 
 It's a shame most people will never get to hear their own eulogies.
 
