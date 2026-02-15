@@ -48,6 +48,8 @@ When I am sad, I find it helpful to believe that my sadness is somehow worse, or
 
 And so, while I do believe that much of how I feel is just a fact of life and womanhood and genetics, much of it is self-reinforcing, too. I am trying, therefore, to complain a bit less; to seek less reassurance from the outside world; and to accept myself as I am, including the inevitable sadness.
 
+*Something re - the manifestation girlies are onto something, beleiving in optimisim, however hard to do, will result in a more optimistic life - i do believe. pessimism is a hyperstiioning force, your body sits in it long enough, it will orient towards pessimism endlessley.* 
+
 **5. Believing in Myself**
 
 For most of my life, I have relied on other people believing in me in order to take any form of meaningful action in the world, because my own bouts of self-belief never lasted long enough. By 'believing in yourself,' I mean many things, including believing that you have fundamental worth as a human being, that you are capable of doing the things you have evidence of being capable of—and probably far beyond—that you have the capacity to make decisions without input from the external world, and that you can make it through hard times, and even harder times too. 
