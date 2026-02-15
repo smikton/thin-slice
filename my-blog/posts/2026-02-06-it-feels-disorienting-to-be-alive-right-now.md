@@ -18,7 +18,7 @@ That being said, I do not really know how to orient myself. 
 
 Every few months, a slew of senior AI safety workers at top AI companies will quit their jobs - causing everyone to panic. Recently, this man quit to go pursue a poetry degree. I responded to him, "you are my hero" - he responded, "thank you, I hope you are well :)". 
 
-My insticnt re what to do is some combination of use AI agentic tools, take some courses on AI governance and AGI strategy to "upskill" (as I downskill the rest of my cognitive forces), and go spend time completely isolated as far away from humans as physcially possible. 
+My insticnt re what to do is some combination of use AI agentic tools, take some courses on AI governance and AGI strategy to "upskill" (as I downskill the rest of my cognitive forces), and go spend time completely isolated as far away from humans as physcially possible. While also, of course, somehow finding a husband. 
 
 **Freaky ones**
 
