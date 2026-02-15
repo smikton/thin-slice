@@ -2,7 +2,7 @@
 layout: post.njk
 title: Planned software updates to my psyche for 2026
 date: 2026-02-07
-draft: false
+draft: true
 ---
 The psyche is surprisingly malleable, apparently. I hope to test this hypothesis this year, with plans to release the following updates:
 
@@ -39,6 +39,10 @@ Bad feelings also tend to pass more quickly if you actually feel them.
 *I imagine that when rethinking these scenarios, if you pay close attention, your body will be in pain. You will probably cry. And rather than continuing to imagine the what-ifs, you can just sit with the pain. I think it is fine to engage in the what-ifs insofar as you notice them quickly enough, recognize the pain they engender, and then focus on the pain rather than seeing through the what-ifs or dwelling on them.*
 
 **For illustration:** when I feel a swell of jealous rage coming online, I will usually start crying and screaming and then quickly find as many ways as possible to avoid thinking about the thing that is causing me pain. But what you can also do (in addition to crying and screaming, which I think is healthy and necessary) is: (a) sit with the thoughts causing you pain - for example, perhaps you are picturing your ex falling in love with someone else. Keep picturing it! Picture every version of it! It will feel terrible, but eventually, you run out of material. And (b) observe the physical sensations of pain arising in your body, wherever they may be (for me, this is usually in the heart area). It especially helps if you observe the sensations from a god-like perspective, treating your body as a scientific object of study. Often, when you actually sit with the feelings this way, you will notice two things: (i) much of the "badness" is merely a perception, and can also be viewed as a blob of sensation-particles, and (ii) this blob of sensation-particles will often start moving around in the body. When the sensations are done moving around in your body, you have done something called "processing an emotion." You basically need to keep doing this over and over and over again, until one day you wake up and no longer really feel triggered by this thing that once caused you terrible pain.
+
+4. Not knowing / accepting uncertainty / nuance 
+
+Sometimes the things u need to sit with / not flinch away from, is not knowing. i have very confusing bodily intutions, and lots of doubt, about pracitcally everything - and i chase relentelssly for answers, but the process of chasing creates this terrible war between th emind and body, and leaves me usually in a prolonged state of panic. 
 
 **4. Broadcasting less misery**
 
